@@ -13,7 +13,7 @@
     "require": {
         "php": "^8.0",
         "illuminate/support": "^8.31",
-        "illuminate/validation": "^7.0"
+        "illuminate/validation": "^8.31"
     },
     "require-dev": {
         "phpspec/phpspec": "^5.0|^6.0",
